@@ -1,0 +1,11 @@
+.checked::before {
+    content: " \2611    ";
+}
+
+.checklist::before {
+    content: " \2610    ";
+}
+
+li {
+    list-style: none;
+}
