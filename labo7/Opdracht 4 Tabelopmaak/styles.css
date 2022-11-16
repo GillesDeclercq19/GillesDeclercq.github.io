@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 0.9em;
+    width: 1200px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 3em;
+    background-color: gray;
+    font-style: oblique;
+    text-decoration: underline;
+}
+h2 {
+    font-size: 2.5em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+h4 {
+    font-size: 2em;
+}
+p {
+    color: white;
+    font-size: 1.5em;
+
+
+}
+
+section {
+    background-color: gray;
+    border-style: double;
+    text-align: center;
+    margin-bottom: 10px;
+
+
+
+}
+
+article {
+    background-color: yellowgreen;
+    border-style: double;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: cadetblue;
+    border-style: double;
+    text-align: center;
+    margin-bottom: 10px;
+}
+img {
+    width: 300px;
+    height: 350px;
+}
+
+a:hover {
+    background-color: yellow;
+    color: darkred;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    height: 100px;
+    width: 100%;
+    margin-bottom: 20px;
+
+}
+
+.table {
+    background-color: lightgray;
+
+}
+
+.table > thead {
+    color: red;
+    background-color: bisque;
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+
+.table > tbody {
+    color: blue;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.onbekend {background-color:red;}

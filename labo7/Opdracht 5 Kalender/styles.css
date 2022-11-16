@@ -1,0 +1,44 @@
+table{
+    border: solid;
+}
+
+td:first-child{
+    background:rgb(255, 220, 220);
+}
+
+td:last-child{
+    background:rgb(255, 220, 220);
+}
+
+.maand{
+    background:rgb(170, 170, 200);
+    text-align: center;
+}
+
+.vrijedag{
+    background:rgb(250, 120, 120);
+}
+
+td.volgendemaand{
+    color:grey;
+    background: darkgrey;
+}
+
+.randen {
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px dotted;
+}
+
+td.dag{
+    background:rgb(35, 37, 70);
+    color:rgb(200, 190, 240);
+    text-align: center;
+}
+
+.textopmaak{
+    text-decoration: underline;
+    color: dodgerblue;
+}
