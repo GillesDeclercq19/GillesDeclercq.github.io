@@ -1,0 +1,19 @@
+img {
+    position: absolute;
+}
+#arch {
+    top: calc(100%/10);
+    left: calc(100%/10);
+}
+#tech {
+    top: calc(100%/2.5);
+    left: calc(100%/10);
+}
+#animals {
+    top: calc(100%/10);
+    left: calc(100%/2);
+}
+#nature {
+    top: calc(100%/2.5);
+    left: calc(100%/2);
+}
